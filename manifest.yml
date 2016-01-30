@@ -1,0 +1,6 @@
+---
+applications:
+- name: nexus
+  memory: 1024M
+  host: nexus
+  path : ./nexus-2.12.0-01.war
